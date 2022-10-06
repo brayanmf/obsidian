@@ -1,0 +1,1 @@
+A continuación, agregue nuestros objetos de transferencia de datos (DTO). Esto hará que el intercambio de datos entre solicitudes, controladores y repositorios sea más fácil y ordenado

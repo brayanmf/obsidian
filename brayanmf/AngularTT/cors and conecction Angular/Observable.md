@@ -1,0 +1,1 @@
+Un observable puede entregar múltiples valores de cualquier tipo: literales, mensajes o eventos, dependiendo del contexto. La API para recibir valores es la misma tanto si los valores se entregan de forma sincrónica como asincrónica
